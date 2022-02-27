@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order from the Commitee, that eleven thousand three hundred horse should be conducted by Sir Simon Harecolt into Ireland. As also, letters read in the Parliament, sent from the Mayre of Dublin and other justices of the peace, how Tredagl is besieged and Dublin in great feare of the rebels. As likewise the Spanish fleet overthrown in the sea, going to assist the rebels in Ireland. In a relation of a great uumber [sic] of Spaniards that were resolved to go into Ireland, and helpe the rebels to persecute the Protestants there more cruelly. Being the just judgement of God on those bloudy minded tyrants, shewing how in a suddaine tempest they were all drowned in the devouring sea. With the copy of a letter sent from the Spanish fleet to the Lord Donmadoffe the arch-rebel in Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82918</idno>
+            <idno type="STC">Wing E1683</idno>
+            <idno type="STC">Thomason E132_11</idno>
+            <idno type="STC">ESTC R1771</idno>
+            <idno type="EEBO-CITATION">99860252</idno>
+            <idno type="PROQUEST">99860252</idno>
+            <idno type="VID">156359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156359)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order from the Commitee, that eleven thousand three hundred horse should be conducted by Sir Simon Harecolt into Ireland. As also, letters read in the Parliament, sent from the Mayre of Dublin and other justices of the peace, how Tredagl is besieged and Dublin in great feare of the rebels. As likewise the Spanish fleet overthrown in the sea, going to assist the rebels in Ireland. In a relation of a great uumber [sic] of Spaniards that were resolved to go into Ireland, and helpe the rebels to persecute the Protestants there more cruelly. Being the just judgement of God on those bloudy minded tyrants, shewing how in a suddaine tempest they were all drowned in the devouring sea. With the copy of a letter sent from the Spanish fleet to the Lord Donmadoffe the arch-rebel in Ireland.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for WR,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First part noted in ms. on title page as "wanting"; actually bound after "The Spanish fleet overthrown..."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harcourt, Simon, --  Sir, 1603?-1642.</term>
+               <term>Donmadoff, --  General.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Wicklow (Ireland : County) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156359:1"/>
+            <pb facs="tcp:156359:1" rendition="simple:additions"/>
+            <p>AN ORDER FROM THE COMMITEE, That Eleven Thouſand three Hundred Horſe ſhould be conducted by Sir <hi>Simon Harecolt</hi> into IRELAND. AS ALSO, Letters read in the Parliament, ſent from the Mayre of <hi>Dublin</hi> and other Juſtices of the Peace, how <hi>Tredagl</hi> is beſieged and <hi>Dublin</hi> in great feare of the Rebels. As likewiſe The <hi>Spaniſh Fleet</hi> overthrown in the Sea, going to aſſiſt the Rebels in <hi>Ireland.</hi> In a Relation of a great number of <hi>Spaniards</hi> that were reſolved to go into <hi>Ireland,</hi> and helpe the Rebels to perſecute the Proteſtants there more cruelly. Being the juſt Judgement of God on thoſe bloudy minded Tyrants, ſhewing how in a ſuddaine Tempeſt they were all Drowned in the devouring Sea. With the Copy of a Letter ſent from the Spaniſh Fleet to the Lord <hi>Donmadoffe</hi> the Arch-Rebel in <hi>Ireland.</hi>
+            </p>
+            <p>London, Printed for WR 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156359:2"/>
+            <pb facs="tcp:156359:2"/>
+            <head>THE SPANISH FLEET OVER<g ref="char:EOLhyphen"/>throwne in the Sea going to aſſiſt the Rebels in <hi>Ireland.</hi>
+            </head>
+            <p>ENuy is the badge of enſuing cruelty, malice is the Typicall <hi>Idaea</hi> of tyranie, for when as inteſtine malice becomes inveterate, no<g ref="char:EOLhyphen"/>thing can ſatisfie it, but bloud, nothing can quench the aſpiring flame of their ardent intentions, but the immolation of bloud, nothing laſtly can ſtop the impetuous violence of the ſwift run<g ref="char:EOLhyphen"/>ning torrent of their greedy minds, but humane fleſh. O horred Tyrannie, Yea where Envy is entertayned in the habitacle of the mind, there men will not deſiſt to plough over the Ocean, untill they come to the object of their reſolutions, where like in a luxurious harveſt they will glutt their hungry ſwordes in humane fleſh, and make drunke their thirſty ſpeares with mortall bloud, and cut downe the trunkes of living men, as the ravenous ſithe devoures the trembling come. This malice I ſay, ſo tyrannicall, ſo bloudy, ſo nefari<g ref="char:EOLhyphen"/>ous have beene lodged in the inteſtine breaſts of the <hi>Spaniard</hi> a long time: who have alwaies in<g ref="char:EOLhyphen"/>tended to depopulate, and ſubvert the Brittiſh
+<pb facs="tcp:156359:3"/>Nation to the utter demolition of Proteſtant Religion. But being oftentimes prevented in their deſignes, they have beene more vehement<g ref="char:EOLhyphen"/>ly deſirous to come to the object of their former intended conſpiracies againſt the Britiſh Nation. VVherefore having ſome oppertunity in <hi>Ireland</hi> having there Rebells that would connive with them, and concurre in a bloudy Maſſacre they ſent over before St. Patricke Devons with a num<g ref="char:EOLhyphen"/>erous multitude of men to the number of above five thouſand and more in Armes, Who went in a Navie into <hi>Ireland</hi> to the auxiliation of the Rebells. Where although at their firſt arrivall <hi>Turone</hi> and his confederates joyfully entertayned him with reſpective congratulation for his love: yet the Earle of <hi>Clanrickards</hi> afterwards ſaluted him with a valley of ſhot and ſlew moſt of his men that were under his command. Having ſuch ill ſucceſſe in their firſt Navie, they congrega<g ref="char:EOLhyphen"/>ted another three times greater then the former, to the number of fiveteene thouſand men tran<g ref="char:EOLhyphen"/>ſporting with them many Armes and military Ammunition to re-aſiſt the Rebells. Thus be<g ref="char:EOLhyphen"/>ing armed as well internally in their reſolutions as enternally, they tooke Shipping, and with great alacrity <hi>Navem aſcenderunt,</hi> they thus pro<g ref="char:EOLhyphen"/>ceeded to <hi>Ireland</hi> very jocund; having ſent a <hi>He<g ref="char:EOLhyphen"/>rald</hi> of Armes before to the Rebells giving them notice of their comming; but at length as they were all tuned in their luxurious thoughts of
+<pb facs="tcp:156359:3"/>inhumane crueltie, a ſuddaine and violent Tem<g ref="char:EOLhyphen"/>peſt aroſe, which diſſipated their ſhips, beate them vehemently upon a Rocke, and their Navie being impetuouſly disjected in pieces, they were drowned in the all-devouring Sea. Thus we may ſee the juſt Judgement of Almightie God, whoſe omnipotencie will not permit ſuch ravenous Wolves to devoure his little Flocke. For although like the <hi>Aegyptians</hi> they did follow us, as they did the <hi>Iſraelites,</hi> yet like <hi>Pharaoh,</hi> and all his Hoſte, they were overwhelmed in the Sea. But not to digreſſe from my intended Sub<g ref="char:EOLhyphen"/>ject in a too errant deviation, I will recall my Pen to it's former diſcourſe. The Rebels being fruſtra<g ref="char:EOLhyphen"/>ted of their expectation in the Spaniſh Fleet, and perceiving they were all drowned in the Ocean, be<g ref="char:EOLhyphen"/>gan to deplore and condole their inauſpitious fate, greatly lamenting their diſaſtrous fortune. But would to God, while they pampe forth guſhing teares from their eyes, for the overthrow of the Spaniards, that it might ſwell to a Deluge, and like them, overwhelme themſelves in the inunda<g ref="char:EOLhyphen"/>tion of their own teares. But to omit the ſuperflu<g ref="char:EOLhyphen"/>ous deſcription of their griefe, I will expreſſe the Letter which was ſent from the Spaniſh Fleet by the Herald of Armes to the Lord <hi>Donmadoffe</hi> the Arch Rebell in <hi>Ireland.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:156359:4"/>
+            <head>To the Right Honourable, and thrice Noble the Lord Donmadoffe in Clogam in the County of Manahom, &amp;c.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THE plauſible commendation of your magnanimous courage in proſecution of the Proteſtant party being oftentimes annunci<g ref="char:EOLhyphen"/>ated unto us, have at this time reſpectively in<g ref="char:EOLhyphen"/>duced us to preſent an auxiliary Army unto your honours gracious acceptance: which is the height of our ambition to obtaine. We have maturely conſidered of the multiplicitie of the numerous confronts given you heretofore by the Proteſtants, and of the abuſive inſultations which they have uſurped over you, and ſometimes over our ſelves too: we therefore are reſolved to vindicate both our owne cauſe, and yours: which apparently ſhall be demonſtrated, and ſufficiently declared to the Brittiſh Nation at our firſt arrivall. My Lord, if your Honour would vouchſafe to con<g ref="char:EOLhyphen"/>curre with us in a conjunction of our Armies we doubt not but we ſhall ſubvert them at our firſt ſalutation, and become ſo victorious, that we may returne with an Olive branch in our hands. In the meane time what we moſt implore in our ardent deſires is your acceptance of our ſervice: which if you grant, ſhall be a perfect Type of our ob<g ref="char:EOLhyphen"/>ſequious opitulation and a ſufficient Caractar of our enſuing victory.</p>
+         </div>
+         <div type="order_of_Parliament">
+            <pb facs="tcp:156359:4"/>
+            <head>An Order from the <hi>Committee</hi> that <hi>11300</hi> Horſe ſhould be conducted by Sir <hi>Simon Harecolt.</hi> into IRELAND. As alſo, <hi>A Letter read in the Parliament, ſent from the Mayer of Doublin and other Juſtices of the Peace, how</hi> Tredagh <hi>is beſieged, and</hi> Doublin <hi>in great feare of the Enemy.</hi>
+            </head>
+            <p>THe Committee having maturely and judi<g ref="char:EOLhyphen"/>ciouſly conſidered of the extreame calami<g ref="char:EOLhyphen"/>ty, and great miſery which the Prote<g ref="char:EOLhyphen"/>ſtants in <hi>Ireland</hi> dayly undergoe, by thoſe bloudy and inhumane Tyrants, the Rebels: who have nei<g ref="char:EOLhyphen"/>ther mercy nor partiality in them: did forthwith Order, that preſent and auxiliary ayd ſhould be immediately provided for the aſſiſtance of the Proteſtant party; and they appointed more-over, That Sir <hi>Simon Harecolt</hi> ſhould conduct eleven thouſand and three hundred Horſe for the ſame purpoſe. For they had diverſe Letters directed unto them from the Mayre of <hi>Dublin,</hi> and other Juſtices of Peace, intimating, That <hi>Tredagh</hi> was beſieged by the Rebels, and <hi>Dublin</hi> likewiſe in great danger of their tyrannicall inhumanity. Their proceedings are ſo nefariouſly abominable, that they ſeeme not onely to be deteſtable in the
+<pb facs="tcp:156359:5"/>ſight of God, but alſo odious in the eares of Men. And whoſoever truely perpends the Afflictions of the Brittiſh Nation, and what calamity they are involved, cannot but eliciate teares from his heart, were it of a meere Adamantine Compoſition. Their inhumanity is not terminated in the limi<g ref="char:EOLhyphen"/>tation of humane lenity, but has beene ſo merci<g ref="char:EOLhyphen"/>leſſe, that the Parliament have reſpectively beene indued to ſend them an expedient and neceſſary auxiliation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
